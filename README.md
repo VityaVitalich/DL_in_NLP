@@ -31,6 +31,8 @@ __________________________________________
 
 ## Timetable
 
+12 Lectures, 11 Seminars
+
 | Date | Type | Topic | Reading club | Slides/Colab link | Video | Additional links | Session recording |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
