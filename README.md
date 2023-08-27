@@ -40,7 +40,17 @@ __________________________________________
 | Date | Topic | Slides/Colab link | Video | Additional links | Session recording |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |-|Intro|[intro](https://docs.google.com/presentation/d/1cw340sXoNF450LcJGH7OXygBSckgmU1ZJwIjnxLlXVE/edit?usp=sharing)|-|-|-|
-
+|:---:|Feed Forward|-|:---:|:---:|:---:|
+|:---:|Norms + Dropout|:---:|:---:|:---:|:---:|
+|:---:|Embeddings|:---:|:---:|:---:|:---:|
+|:---:|RNN|:---:|:---:|:---:|:---:|
+|:---:|Attention + Transformer|:---:|:---:|:---:|:---:|
+|:---:|Tokenizers + Bert|:---:|:---:|:---:|:---:|
+|:---:|Other Encoders + T5|:---:|:---:|:---:|:---:|
+|:---:|NLU Tasks|:---:|:---:|:---:|:---:|
+|:---:|Decoders|:---:|:---:|:---:|:---:|
+|:---:|Multimodal Transformers|:---:|:---:|:---:|:---:|
+|:---:|Projects (or Voted theme)|:---:|:---:|:---:|:---:|
 
 
 ### Seminars
