@@ -37,8 +37,8 @@ __________________________________________
 
 ### Lectures
 | Date | Topic | Slides/Colab link | Video | Additional links | Session recording |
-|:---:|Intro|[intro](https://docs.google.com/presentation/d/1cw340sXoNF450LcJGH7OXygBSckgmU1ZJwIjnxLlXVE/edit?usp=sharing)|:---:|:---:|:---:|
-|:---:|Feed Forward|[]()|:---:|:---:|:---:|
+|-|Intro|[intro](https://docs.google.com/presentation/d/1cw340sXoNF450LcJGH7OXygBSckgmU1ZJwIjnxLlXVE/edit?usp=sharing)|-|-|-|
+|:---:|Feed Forward|-|:---:|:---:|:---:|
 |:---:|Norms + Dropout|:---:|:---:|:---:|:---:|
 |:---:|Embeddings|:---:|:---:|:---:|:---:|
 |:---:|RNN|:---:|:---:|:---:|:---:|
@@ -51,6 +51,7 @@ __________________________________________
 |:---:|Projects (or Voted theme)|:---:|:---:|:---:|:---:|
 
 ### Seminars
+
 | Date | Topic | Slides/Colab link | Video | Additional links | Session recording |
 |:---:|Intro to Pytorch|:---:|:---:|:---:|:---:|
 |:---:|How to deal with Data|:---:|:---:|:---:|:---:|
