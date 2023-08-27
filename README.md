@@ -41,7 +41,7 @@ __________________________________________
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |-|Intro|[intro](https://docs.google.com/presentation/d/1cw340sXoNF450LcJGH7OXygBSckgmU1ZJwIjnxLlXVE/edit?usp=sharing)|-|-|-|
 |:---:|Feed Forward|[Basics](https://docs.google.com/presentation/d/1ufEANGJMPChlbw0lfLCA1OaiClvFHM_p5zWozTibRxQ/edit?usp=sharing)|:---:|:---:|:---:|
-|:---:|Norms + Dropout|:---:|:---:|:---:|:---:|
+|:---:|Overfitting tricks|:---:|:---:|:---:|:---:|
 |:---:|Embeddings|:---:|:---:|:---:|:---:|
 |:---:|RNN|:---:|:---:|:---:|:---:|
 |:---:|Attention + Transformer|:---:|:---:|:---:|:---:|
