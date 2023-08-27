@@ -40,7 +40,7 @@ __________________________________________
 | Date | Topic | Slides/Colab link | Video | Additional links | Session recording |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |-|Intro|[intro](https://docs.google.com/presentation/d/1cw340sXoNF450LcJGH7OXygBSckgmU1ZJwIjnxLlXVE/edit?usp=sharing)|-|-|-|
-|:---:|Feed Forward|-|:---:|:---:|:---:|
+|:---:|Feed Forward|[Basics](https://docs.google.com/presentation/d/1ufEANGJMPChlbw0lfLCA1OaiClvFHM_p5zWozTibRxQ/edit?usp=sharing)|:---:|:---:|:---:|
 |:---:|Norms + Dropout|:---:|:---:|:---:|:---:|
 |:---:|Embeddings|:---:|:---:|:---:|:---:|
 |:---:|RNN|:---:|:---:|:---:|:---:|
