@@ -57,7 +57,7 @@ __________________________________________
 
 | Date | Topic | Slides/Colab link | Video | Additional links | Session recording |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|12.09|Intro to Pytorch|:---:|[part 1](https://youtu.be/WqelMx0gMY0) and [part 2|(https://youtu.be/alDzKMTeZL4)|:---:|:---:|
+|12.09|Intro to Pytorch|:---:|[part 1](https://youtu.be/WqelMx0gMY0) and [part 2](https://youtu.be/alDzKMTeZL4)|:---:|:---:|
 |:---:|How to deal with Data|:---:|:---:|:---:|:---:|
 |:---:|Basic NN|:---:|:---:|:---:|:---:|
 |:---:|More Complex NN|:---:|:---:|:---:|:---:|
