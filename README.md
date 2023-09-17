@@ -4,7 +4,7 @@
 
 zoom link: 
 
-tg link: 
+tg link: https://t.me/+_2kUS00Eq7ZjZTYy
 
 __________________________________________
 
@@ -57,30 +57,13 @@ __________________________________________
 
 | Date | Topic | Slides/Colab link | Video | Additional links | Session recording |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|:---:|Intro to Pytorch|:---:|:---:|:---:|:---:|
+|12.09|Intro to Pytorch|:---:|[part 1](https://youtu.be/WqelMx0gMY0) and [part 2|(https://youtu.be/alDzKMTeZL4):---:|:---:|
 |:---:|How to deal with Data|:---:|:---:|:---:|:---:|
 |:---:|Basic NN|:---:|:---:|:---:|:---:|
 |:---:|More Complex NN|:---:|:---:|:---:|:---:|
 |:---:|Embeddings|:---:|:---:|:---:|:---:|
 |:---:|RNNs|:---:|:---:|:---:|:---:|
 |:---:|Transformer|:---:|:---:|:---:|:---:|
-|:---:|HF + BERT|:---:|:---:|:---:|:---:|
-|:---:|GPT and More|:---:|:---:|:---:|:---:|
-|:---:|Project questions|:---:|:---:|:---:|:---:|
-|:---:|Voted Theme|:---:|:---:|:---:|:---:|
-
-
-
-
-| Date | Topic | Slides/Colab link | Video | Additional links | Session recording |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|12.09|Intro to Pytorch|:---:|:---:|:---:|:---:|
-|26.09|How to deal with Data + Basic NN|:---:|:---:|:---:|:---:|
-|10.10|Basic NN|:---:|:---:|:---:|:---:|
-|14.11|More Complex NN|:---:|:---:|:---:|:---:|
-|28.11|Embeddings|:---:|:---:|:---:|:---:|
-|12.12|RNNs|:---:|:---:|:---:|:---:|
-|19.12|Transformer|:---:|:---:|:---:|:---:|
 |:---:|HF + BERT|:---:|:---:|:---:|:---:|
 |:---:|GPT and More|:---:|:---:|:---:|:---:|
 |:---:|Project questions|:---:|:---:|:---:|:---:|
