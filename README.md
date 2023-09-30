@@ -2,7 +2,11 @@
 
 ## Day, time
 
-zoom link: 
+zoom link: https://us06web.zoom.us/j/89516733984?pwd=aLSs7pFQAI3WdSCOaIHmIWhzbTrQtt.1
+
+Идентификатор конференции: 895 1673 3984
+Код доступа: 760477
+Хост: 429781
 
 tg link: https://t.me/+_2kUS00Eq7ZjZTYy
 
