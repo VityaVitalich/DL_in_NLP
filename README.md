@@ -46,7 +46,7 @@ __________________________________________
 |5.09|Intro|[intro](https://docs.google.com/presentation/d/1cw340sXoNF450LcJGH7OXygBSckgmU1ZJwIjnxLlXVE/edit?usp=sharing)|-|-|-|
 |5.09|Feed Forward|[Basics](https://docs.google.com/presentation/d/1ufEANGJMPChlbw0lfLCA1OaiClvFHM_p5zWozTibRxQ/edit?usp=sharing)|:---:|:---:|:---:|
 |19.09|Overfitting tricks|[More Layers](https://docs.google.com/presentation/d/1ps0CXMx4yu2Q7vj5wwiCaHxcvMvME_y8wMG9iJqpyYs/edit?usp=sharing)|:---:|:---:|:---:|
-|3.10|Embeddings|:---:|:---:|:---:|:---:|
+|3.10|Embeddings|[Word2Vec + Philosophy](https://docs.google.com/presentation/d/1wTwQ8CJ3Wz2trmiwpekOrPQlTY_iT2YZ2KICS422gvs/edit?usp=sharing)|:---:|:---:|:---:|
 |17.10|RNN|:---:|:---:|:---:|:---:|
 |07.11|Attention + Transformer|:---:|:---:|:---:|:---:|
 |21.11|Tokenizers + Bert|:---:|:---:|:---:|:---:|
