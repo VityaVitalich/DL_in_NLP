@@ -19,11 +19,11 @@ __________________________________________
 Grade Term = 0.25 * HW1 + 0.25 * HW2 + 0.5 * Project + 0.01 Paper review (bonus: max 0.1)
 __________________________________________
 
-## HW-1 (Deadline: )
+## HW-1 (Deadline: 21.11.2023)
 
-Task description: 
+Task description: Dataset constructor + NN Layers + Training Custom Net on Fashion MNIST
 
-Link to submit: 
+Link to submit: send to dlnlp2023@mail.ru with theme = your Last Name
 
 __________________________________________
 
