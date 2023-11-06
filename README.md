@@ -48,7 +48,7 @@ __________________________________________
 |19.09|Overfitting tricks|[More Layers](https://docs.google.com/presentation/d/1ps0CXMx4yu2Q7vj5wwiCaHxcvMvME_y8wMG9iJqpyYs/edit?usp=sharing)|:---:|:---:|:---:|
 |3.10|Embeddings|[Word2Vec + Philosophy](https://docs.google.com/presentation/d/1wTwQ8CJ3Wz2trmiwpekOrPQlTY_iT2YZ2KICS422gvs/edit?usp=sharing)|:---:|:---:|:---:|
 |17.10|RNN|[RNN](https://docs.google.com/presentation/d/1b0eDbjDr8uqT87Kbb7Pcvow6l0Aqt_O_-13h-0TF6Zw/edit?usp=sharing)|:---:|:---:|:---:|
-|07.11|Attention + Transformer|:---:|:---:|:---:|:---:|
+|07.11|Attention + Transformer|[Attention + Triansformer](https://docs.google.com/presentation/d/1XQy89h6kHydABytwSFE69OPOFUNtlyA8Xw-ujU5QCSs/edit?usp=sharing)|:---:|:---:|:---:|
 |21.11|Tokenizers + Bert|:---:|:---:|:---:|:---:|
 |05.12|Other Encoders + T5|:---:|:---:|:---:|:---:|
 |05.12|NLU Tasks|:---:|:---:|:---:|:---:|
