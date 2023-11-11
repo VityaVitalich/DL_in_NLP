@@ -19,11 +19,11 @@ __________________________________________
 Grade Term = 0.25 * HW1 + 0.25 * HW2 + 0.5 * Project + 0.01 Paper review (bonus: max 0.1)
 __________________________________________
 
-## HW-1 (Deadline: )
+## HW-1 (Deadline: 21.11.2023)
 
-Task description: 
+Task description: Dataset constructor + NN Layers + Training Custom Net on Fashion MNIST
 
-Link to submit: 
+Link to submit: send to dlnlp2023@mail.ru with theme = your Last Name
 
 __________________________________________
 
@@ -48,7 +48,7 @@ __________________________________________
 |19.09|Overfitting tricks|[More Layers](https://docs.google.com/presentation/d/1ps0CXMx4yu2Q7vj5wwiCaHxcvMvME_y8wMG9iJqpyYs/edit?usp=sharing)|:---:|:---:|:---:|
 |3.10|Embeddings|[Word2Vec + Philosophy](https://docs.google.com/presentation/d/1wTwQ8CJ3Wz2trmiwpekOrPQlTY_iT2YZ2KICS422gvs/edit?usp=sharing)|:---:|:---:|:---:|
 |17.10|RNN|[RNN](https://docs.google.com/presentation/d/1b0eDbjDr8uqT87Kbb7Pcvow6l0Aqt_O_-13h-0TF6Zw/edit?usp=sharing)|:---:|:---:|:---:|
-|07.11|Attention + Transformer|:---:|:---:|:---:|:---:|
+|07.11|Attention + Transformer|[Attention + Triansformer](https://docs.google.com/presentation/d/1XQy89h6kHydABytwSFE69OPOFUNtlyA8Xw-ujU5QCSs/edit?usp=sharing)|:---:|:---:|:---:|
 |21.11|Tokenizers + Bert|:---:|:---:|:---:|:---:|
 |05.12|Other Encoders + T5|:---:|:---:|:---:|:---:|
 |05.12|NLU Tasks|:---:|:---:|:---:|:---:|
@@ -62,12 +62,12 @@ __________________________________________
 | Date | Topic | Slides/Colab link | Video | Additional links | Session recording |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |12.09|Intro to Pytorch|:---:|[part 1](https://youtu.be/WqelMx0gMY0) and [part 2](https://youtu.be/alDzKMTeZL4)|:---:|:---:|
-|:---:|How to deal with Data|:---:|:---:|:---:|:---:|
-|:---:|Basic NN|:---:|:---:|:---:|:---:|
-|:---:|More Complex NN|:---:|:---:|:---:|:---:|
-|:---:|Embeddings|:---:|:---:|:---:|:---:|
-|:---:|RNNs|:---:|:---:|:---:|:---:|
-|:---:|Transformer|:---:|:---:|:---:|:---:|
+|26.09|How to deal with Data|:---:|:---:|:---:|:---:|
+|10.10|Basic NN|:---:|:---:|:---:|:---:|
+|14.11|More Complex NN|:---:|:---:|:---:|:---:|
+|28.11|Embeddings|:---:|:---:|:---:|:---:|
+|12.12|RNNs|:---:|:---:|:---:|:---:|
+|19.12|Transformer|:---:|:---:|:---:|:---:|
 |:---:|HF + BERT|:---:|:---:|:---:|:---:|
 |:---:|GPT and More|:---:|:---:|:---:|:---:|
 |:---:|Project questions|:---:|:---:|:---:|:---:|
