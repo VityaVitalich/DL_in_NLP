@@ -41,20 +41,20 @@ __________________________________________
 
 ### Lectures
 
-| Date | Topic | Slides/Colab link | Video | Additional links | Session recording |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|5.09|Intro|[intro](https://docs.google.com/presentation/d/1cw340sXoNF450LcJGH7OXygBSckgmU1ZJwIjnxLlXVE/edit?usp=sharing)|-|-|-|
-|5.09|Feed Forward|[Basics](https://docs.google.com/presentation/d/1ufEANGJMPChlbw0lfLCA1OaiClvFHM_p5zWozTibRxQ/edit?usp=sharing)|:---:|:---:|:---:|
-|19.09|Overfitting tricks|[More Layers](https://docs.google.com/presentation/d/1ps0CXMx4yu2Q7vj5wwiCaHxcvMvME_y8wMG9iJqpyYs/edit?usp=sharing)|:---:|:---:|:---:|
-|3.10|Embeddings|[Word2Vec + Philosophy](https://docs.google.com/presentation/d/1wTwQ8CJ3Wz2trmiwpekOrPQlTY_iT2YZ2KICS422gvs/edit?usp=sharing)|:---:|:---:|:---:|
-|17.10|RNN|[RNN](https://docs.google.com/presentation/d/1b0eDbjDr8uqT87Kbb7Pcvow6l0Aqt_O_-13h-0TF6Zw/edit?usp=sharing)|:---:|:---:|:---:|
-|07.11|Attention + Transformer|[Attention + Triansformer](https://docs.google.com/presentation/d/1XQy89h6kHydABytwSFE69OPOFUNtlyA8Xw-ujU5QCSs/edit?usp=sharing)|:---:|:---:|:---:|
-|21.11|Tokenizers + Bert|:---:|:---:|:---:|:---:|
-|05.12|Other Encoders + T5|:---:|:---:|:---:|:---:|
-|05.12|NLU Tasks|:---:|:---:|:---:|:---:|
-|:---:|Decoders|:---:|:---:|:---:|:---:|
-|:---:|Multimodal Transformers|:---:|:---:|:---:|:---:|
-|:---:|Projects|:---:|:---:|:---:|:---:|
+| Topic | Slides/Colab link |
+|:---:|:---:|
+|Intro|[intro](https://docs.google.com/presentation/d/1cw340sXoNF450LcJGH7OXygBSckgmU1ZJwIjnxLlXVE/edit?usp=sharing)|
+|Feed Forward|[Basics](https://docs.google.com/presentation/d/1ufEANGJMPChlbw0lfLCA1OaiClvFHM_p5zWozTibRxQ/edit?usp=sharing)|
+|Overfitting tricks|[More Layers](https://docs.google.com/presentation/d/1ps0CXMx4yu2Q7vj5wwiCaHxcvMvME_y8wMG9iJqpyYs/edit?usp=sharing)|
+|Embeddings|[Word2Vec + Philosophy](https://docs.google.com/presentation/d/1wTwQ8CJ3Wz2trmiwpekOrPQlTY_iT2YZ2KICS422gvs/edit?usp=sharing)|
+|RNN|[RNN](https://docs.google.com/presentation/d/1b0eDbjDr8uqT87Kbb7Pcvow6l0Aqt_O_-13h-0TF6Zw/edit?usp=sharing)|
+|Attention + Transformer|[Attention + Triansformer](https://docs.google.com/presentation/d/1XQy89h6kHydABytwSFE69OPOFUNtlyA8Xw-ujU5QCSs/edit?usp=sharing)|
+|Tokenizers|[Tokenizers](https://docs.google.com/presentation/d/1BKfc_OZ2zKSwg1TR2_pteQQ1BM1qoOJUX0vFYIkFljM/edit?usp=sharing)|
+|BERT|[BERT](https://docs.google.com/presentation/d/1C8meGXjO5jd7WKd7hNbs-c9zUv4isxuj6EoNCh-hgDo/edit?usp=sharing)|
+|Other Encoders|[Encoders](https://docs.google.com/presentation/d/1RmYGSc9XBrHYBsbj9e4iMeBYTKVFmw-C6ypwTTPUozs/edit?usp=sharing)|
+|GPTs|[GPTs](https://docs.google.com/presentation/d/1si2NzlvU1pHh3nWd5x2UENmdNOAGRAYE4mxAfTfF9j8/edit?usp=sharing)|
+|Efficient DL|[Efficient DL](https://docs.google.com/presentation/d/1SZ2ckN0y2NeS8IpSBSiAZ5luKeiU8sIpdNB7-m8mrvA/edit?usp=sharing)|
+|Modern Research|[Modern Research](https://docs.google.com/presentation/d/1Vnxy8pnzl5XJD1PdYJgRRYp0Nxc1L0zch-RxaVrdNsE/edit?usp=sharing)|
 
 
 ### Seminars
