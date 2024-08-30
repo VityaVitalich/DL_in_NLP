@@ -1,14 +1,9 @@
-# DL in NLP 2023
+# DL in NLP
 
 ## Day, time
 
-zoom link: https://us06web.zoom.us/j/89516733984?pwd=aLSs7pFQAI3WdSCOaIHmIWhzbTrQtt.1
-
-Идентификатор конференции: 895 1673 3984
-Код доступа: 760477
-Хост: 429781
-
-tg link: https://t.me/+_2kUS00Eq7ZjZTYy
+zoom link: 
+tg link: [https://t.me/+_2kUS00Eq7ZjZTYy](https://t.me/+eVPVihKJujVlNzJi)
 
 __________________________________________
 
@@ -19,11 +14,11 @@ __________________________________________
 Grade Term = 0.25 * HW1 + 0.25 * HW2 + 0.5 * Project + 0.01 Paper review (bonus: max 0.1)
 __________________________________________
 
-## HW-1 (Deadline: 21.11.2023)
+## HW-1 (Deadline: 
 
-Task description: Dataset constructor + NN Layers + Training Custom Net on Fashion MNIST
+Task description:
 
-Link to submit: send to dlnlp2023@mail.ru with theme = your Last Name
+Link to submit: 
 
 __________________________________________
 
@@ -61,7 +56,7 @@ __________________________________________
 
 | Date | Topic | Slides/Colab link | Video | Additional links | Session recording |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|12.09|Intro to Pytorch|:---:|[part 1](https://youtu.be/WqelMx0gMY0) and [part 2](https://youtu.be/alDzKMTeZL4)|:---:|:---:|
+|12.09|Intro to Pytorch|:---:|:---:|:---:|:---:|
 |26.09|How to deal with Data|:---:|:---:|:---:|:---:|
 |10.10|Basic NN|:---:|:---:|:---:|:---:|
 |14.11|More Complex NN|:---:|:---:|:---:|:---:|
